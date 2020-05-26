@@ -16,7 +16,7 @@ The differences between previous version and new one are found in utxomanager_di
   - Remove user_id and legal_entity_id to simplify request calls and strengthen security . (access_token already includes these information)
   - Remove validations to avoid using an inconvenient external file.  
 
-* Signer
+* Signer　　
   Endpoint: Old ver=demo-signer.dev-settlenet.io:443, New ver=demo-grpc-gateway.dev-settlenet.io:443
 
   **Previous version**  
