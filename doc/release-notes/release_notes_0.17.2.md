@@ -10,13 +10,13 @@ Release Date:  26 May, 2020
 ## Improvements
 * Add the confirmation dialog to pre-check the connection with Ledger Nano S on Trader App.
 * Add a logic to update the transaction status to Failed when the transaction is not signed in 5 minutes.
-* UTXO Manager
+* UTXO Manager:  
 The differences between previous version and new one are found in utxomanager_diff.patch.
   - Add Version to manage support/investigation/analysis for future.
   - Remove user_id and legal_entity_id to simplify request calls and strengthen security . (access_token already includes these information)
   - Remove validations to avoid using an inconvenient external file.  
 
-* Signer　　
+* Signer:  　　
   Endpoint: Old ver=demo-signer.dev-settlenet.io:443, New ver=demo-grpc-gateway.dev-settlenet.io:443
 
   **Previous version**  
