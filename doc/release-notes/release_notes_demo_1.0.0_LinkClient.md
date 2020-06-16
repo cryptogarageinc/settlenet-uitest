@@ -2,7 +2,9 @@
 Version: Demo 1.0.0   
 Commit hash:  2b00bc9   
 Release Date:  16 June, 2020     
-[GUI Download](https://github.com/cryptogarageinc/settlenet-uitest/releases/tag/1.0.0-demo%2B2b00bc9) (Password: stlnt-uitst)
+[GUI Download](https://github.com/cryptogarageinc/settlenet-uitest/releases/tag/1.0.0-demo%2B2b00bc9) (Password: stlnt-uitst)     
+Mac: SETTLENET-1.0.0-demo+2b00bc9-osx.zip     
+Windows: SETTLENET.Setup.1.0.0-demo+2b00bc9-win.zip     
 
 ## New Features
 * No change
